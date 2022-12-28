@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockWidget">
+        <attr name="secondsPointerSize" format="float"/>
+        <attr name="minutesPointerSize" format="float"/>
+        <attr name="hoursPointerSize" format="float"/>
+
+        <attr name="secondsPointerColor" format="color"/>
+        <attr name="minutesPointerColor" format="color"/>
+        <attr name="hoursPointerColor" format="color"/>
+    </declare-styleable>
+</resources>
